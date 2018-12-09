@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.List;
 
 /**
- * 主类/入口
+ * 主类/入口，Git版
  */
 public class Main {
 
